@@ -18,7 +18,7 @@ Most of them consist of the next steps:
 
 ```yaml
 apiVersion: th2.exactpro.com/v1
-kind: Th2GenericBox
+kind: Th2Box
 spec:
   type: th2-act
   pins:
